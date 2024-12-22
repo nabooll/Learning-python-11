@@ -1,0 +1,19 @@
+So I want to modify it
+Before modifying it, the output for the input 5, will be lookin like this :
+output :
+*
+**
+***
+****
+*****
+
+Now, I want to change it into this:
+input : 5
+output :
+
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+ 
